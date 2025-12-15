@@ -19,8 +19,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem quasi a
 - HTML5
 - CSS3
 - JavaScript
-- React.js (if using)
-- Tailwind CSS (if using)
+- React.js
+- Tailwind CSS
 
 ---
 
